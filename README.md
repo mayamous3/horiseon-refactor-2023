@@ -3,6 +3,12 @@
 ## Description
 Horiseon site refactor: Improve readability and accessibility of underlying HTML and CSS components. 
 
+### Deployed Link
+https://mayamous3.github.io/horiseon-refactor-2023/
+
+### Site Preview
+![horiseon refactor](./assets/images/horiseonrefactorpreview.png)
+
 ### Accomplishments
 -->Replaced div elements with semantic tags
 -->Limited CSS Selectors required to do the job (original used 35, new 23)
@@ -29,3 +35,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Author
+Learn more about me by checking out my profile!
+https://mayamous3.github.io/amanda-wow-portfolio/
